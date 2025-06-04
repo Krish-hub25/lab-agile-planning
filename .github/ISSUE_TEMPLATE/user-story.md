@@ -1,6 +1,6 @@
 ---
-name: User story
-about: 'Hands on Lab:Create an issue template in Github: User story'
+name: User Story
+about: This template is for creating user stories
 title: ''
 labels: ''
 assignees: ''
